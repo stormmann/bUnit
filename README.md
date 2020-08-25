@@ -6,7 +6,7 @@
 
 # bUnit - a testing library for Blazor components
 
-**bUnit** is a testing library for Blazor Components. Its goal is to make it easy to write _comprehensive, stable unit tests_. You can:
+**bUnit** is a testing library for Blazor Components. Its goal is to make it easy to write _comprehensive, stable unit tests_. With bUnit, you can:
 
 - Setup and define components under tests using C# or Razor syntax
 - Verify outcome using semantic HTML comparer
@@ -35,7 +35,7 @@ To get started, head to the [getting started documentation](https://bunit.egilha
 
 ## Sponsors
 
-A hugh thank you to the [sponsors of my work with bUnit](https://github.com/sponsors/egil). The higher tier sponsors are:
+A huge thank you to the [sponsors of my work with bUnit](https://github.com/sponsors/egil). The higher tier sponsors are:
 
 - [Hassan Rezk Habib (@hassanhabib)](https://github.com/hassanhabib)
 
